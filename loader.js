@@ -50,4 +50,4 @@ function animate(){
     console.log((d/90)%2);
 }
 
-setInterval(animate,2);
+setInterval(animate,0.25);
